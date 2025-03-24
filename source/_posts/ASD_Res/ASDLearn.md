@@ -10,6 +10,7 @@ categories: 自闭症资源
 copyright_author: Demon 
 copyright_info: 请勿转载
 top: 1
+cover: https://raw.gitcode.com/qq626928256/PicBed/raw/main/SiteLogo_512x512.png
 ---
 
 # ASDLearn

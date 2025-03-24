@@ -931,7 +931,7 @@ mask:
 # 加载动画
 preloader:
   # 是否启用加载动画
-  enable: false
+  enable: true
   # 资源
   # 1. 全屏加载
   # 2. 进度条
@@ -1041,7 +1041,7 @@ fireworks:
 # 鼠标点击效果: 心形符号
 click_heart:
   # 是否启用心形符号效果
-  enable: false
+  enable: true
   # 是否在移动设备上启用
   mobile: false
 
@@ -1178,7 +1178,7 @@ instantpage: false
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
   # 是否启用 Lazyload
-  enable: false
+  enable: true
   # 使用浏览器的原生 lazyload 而不是 vanilla-lazyload
   native: false
   # 指定使用 Lazyload 的范围 (site 或 post)
@@ -1263,5 +1263,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/qq626928256/qq626928256.github.io.git
-  branch: release
+  repo: https://github.com/qq626928256/ZhuYe-Hexo-Blog-Release.git
+  branch: main
