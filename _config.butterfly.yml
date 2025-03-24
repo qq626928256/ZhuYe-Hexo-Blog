@@ -3,7 +3,7 @@
 # --------------------------------------
 
 # 网站标题
-title: 烛夜
+title: 烛夜 | 免费的自闭症资源分享站
 # 网站描述
 description: '码农，谱系娃爸爸。'
 # 网站的关键词。 支持多个关键词。
@@ -212,7 +212,7 @@ subtitle:
   source: false
   # 如果关闭打字机效果，副标题将仅显示 sub 的第一行内容
   sub:
-    - 祝TA的未来能够更好
+    - 祝TA的未来能够更好！
 
 # 首页文章佈局
 # 1: 行佈局
@@ -350,7 +350,7 @@ aside:
     # 是否显示作者信息卡片
     enable: true
     # 作者描述
-    description: 
+    description: 码农，谱系娃爸爸
     button:
       # 是否显示按钮
       enable: false

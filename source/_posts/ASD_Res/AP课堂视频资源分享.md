@@ -8,7 +8,7 @@ tags:
     - 孤独症
 categories: 自闭症资源
 copyright_author: Demon 
-copyright_info: 请勿转载
+copyright_info: 未经允许，请勿转载
 ---
 
 > # AP课堂视频资源分享
@@ -19,6 +19,6 @@ copyright_info: 请勿转载
 
 可以在微信小程序搜索Autism Partnership 课堂小程序，小程序上的视频都是免费的，在这里我只是分享一下这些视频的网盘链接。
 
-## **<https://cloud.189.cn/t/7Bb6RnjAfQB3（访问码：8rtc）>**
+## [下载地址](https://cloud.189.cn/t/7Bb6RnjAfQB3（访问码：8rtc）) 
 
-**==这里使用天翼云盘分享，可以搜索天翼云盘直链解析进行面客户端下载。==**
+**这里使用天翼云盘分享，可以搜索天翼云盘直链解析进行面客户端下载。**

@@ -8,9 +8,9 @@ tags:
     - 孤独症
 categories: 自闭症资源
 copyright_author: Demon 
-copyright_info: 请勿转载
+copyright_info: 未经允许，请勿转载
 top: 1
-cover: https://raw.gitcode.com/qq626928256/PicBed/raw/main/SiteLogo_512x512.png
+cover: https://raw.gitcode.com/qq626928256/PicBed/raw/main/OceanIcon.jpg
 ---
 
 # ASDLearn
@@ -21,11 +21,11 @@ ASDLearn是一款完全免费的用于孤独症（自闭症）患者的训练APP
 
 # [下载地址](https://www.pgyer.com/6oqwJ18R)
 
-## **==注意==**
+## **注意**
 
-* **==建议使用平板进行训练，手机屏幕较小。==**
-* **==因为我家孩子属于中重度Autism，所以项目内课程也许并不适合所有的谱系患者，请自行尝试。==**
-* **==因为平时训练时可能会因为误触导致训练退出，所以训练中的很多按钮，例如返回按钮，需要双击。==**
+* **建议使用平板进行训练，手机屏幕较小。**
+* **因为我家孩子属于中重度Autism，所以项目内课程也许并不适合所有的谱系患者，请自行尝试。**
+* **因为平时训练时可能会因为误触导致训练退出，所以训练中的很多按钮，例如返回按钮，需要双击。**
 
 ***
 
