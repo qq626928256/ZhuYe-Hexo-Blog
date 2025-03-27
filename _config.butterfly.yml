@@ -34,8 +34,9 @@ menu:
   自闭症资源: /categories/自闭症资源/ ||fas fa-list
   书籍分享: /categories/书籍分享/ || fas fa-book
   自闭症影视: /categories/影视分享/ || fas fa-video
+  个人杂谈: /categories/个人杂谈/ || fa-solid fa-pen-nib
   关于: /about/ || fas fa-heart
-
+# <i class="fa-solid fa-pen-nib"></i>
 default_category: uncategorized
 category_map:
     自闭症资源: ASDRes
