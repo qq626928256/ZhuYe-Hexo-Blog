@@ -11,11 +11,6 @@ author: Demon
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
-# Internal version: 4.7.0
-# Example:
-# fontawesome: //cdn.jsdelivr.net/npm/font-awesome@4/css/font-awesome.min.css
-fontawesome: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
-
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
