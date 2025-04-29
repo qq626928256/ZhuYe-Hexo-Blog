@@ -30,12 +30,12 @@ nav:
   fixed: true
 
 menu:
-  首页: / || fas fa-home
-  自闭症资源: /categories/自闭症资源/ ||fas fa-list
-  书籍分享: /categories/书籍分享/ || fas fa-book
-  自闭症影视: /categories/影视分享/ || fas fa-video
-  个人杂谈: /categories/个人杂谈/ || fa-solid fa-pen-nib
-  关于: /about/ || fas fa-heart
+  首页: / #|| fas fa-home
+  自闭症资源: /categories/自闭症资源/ #||fas fa-list
+  书籍分享: /categories/书籍分享/ #|| fas fa-book
+  自闭症影视: /categories/影视分享/ #|| fas fa-video
+  个人杂谈: /categories/个人杂谈/ #|| fa-solid fa-pen-nib
+  关于: /about/ #|| fas fa-heart
 # <i class="fa-solid fa-pen-nib"></i>
 default_category: uncategorized
 category_map:
@@ -72,7 +72,7 @@ code_blocks:
 # 格式:
 #   icon: 链接 || 描述 || 颜色
 social:
-  fas fa-envelope: mailto:jetmartin@vip.qq.com || Email || "#000000"
+  # fas fa-envelope: mailto:jetmartin@vip.qq.com || Email || "#000000"
   # fa-brands fa-weixin: mailto:qq626928256@gmail.com || 微信 || "#000000"
 
 # --------------------------------------
