@@ -843,7 +843,7 @@ microsoft_clarity:
 # Google Adsense 广告配置
 google_adsense:
   # 是否启用
-  enable: true
+  enable: false
   # 是否自动投放广告
   auto_ads: true
   # 广告脚本 URL
@@ -1230,7 +1230,7 @@ css_prefix: true
 # 插入代码到 head（在 '</head>' 标签之前）和底部（在 '</body>' 标签之前）
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+   - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8094153859651071" crossorigin="anonymous"></script>
   bottom:
     # - <script src="xxxx"></script>
 
